@@ -11,6 +11,8 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello first");
+            Point point = new Point { X = 10, Y = 15 };
+                 
         }
     }
 }
